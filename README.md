@@ -1,10 +1,33 @@
-- 👋 Hi, I’m @Nikil-20
-- 👀 I’m interested in  Web Development
-- 🌱 I’m currently learning MERN stack development 
-- 💞️ I’m looking to collaborate on
-- 📫 reach me on nikilgajankush@gmail.com
+## Hi 👋, I'm Nikil Gajankush
 
-<!---
-Nikil-20/Nikil-20 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+A passionate B.Tech Student from India.
+
+![Profile views](https://komarev.com/ghpvc/?username=Nikil-20&label=Profile%20views&color=0e75b6&style=flat)
+
+- 🌱 I’m currently learning **MERN STACK**
+
+- 💬 Ask me about **MERN Stack**
+
+- 📫 How to reach me **nikilgajankush@gmail.com**
+
+- ### Connect with me:
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://in.linkedin.com/in/nikilgajankush)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/nick_______003/)
+[![Hackerrank](https://img.shields.io/badge/Hackerrank-%23E4405F.svg?&style=for-the-badge&logo=Hackerrank&logoColor=white)](https://www.hackerrank.com/profile/nikilgajankush29)
+[![leetcode](https://img.shields.io/badge/leetcode-%23E4405F.svg?&style=for-the-badge&logo=Hackerrank&logoColor=white)](https://leetcode.com/u/i4NZct7nxk/)
+
+
+
+
+### Languages and Tools:
+
+![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![Node.js](https://img.shields.io/badge/Node.js-%2343853D.svg?style=for-the-badge&logo=node-dot-js&logoColor=white)
+![React](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+
+
+
+
+
