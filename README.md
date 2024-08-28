@@ -16,11 +16,26 @@ A passionate Third Year Student from india
 
 - ### Connect with me:
 
-<a href="https://in.linkedin.com/in/nikilgajankush">
-  <img src="https://img.shields.io/badge/-LinkedIn?style=for-the-badge&logo=linkedin&logoColor=blue&labelColor=white&color=white" width="200" height="100">
-</a>  <a href="https://www.instagram.com/nick_______003/">
-  <img src="https://img.shields.io/badge/-Instagram?style=for-the-badge&logo=Instagram&logoColor=red&labelColor=white&color=white" width="200" height="100">
+<!-- LinkedIn Badge -->
+<a href="https://in.linkedin.com/in/nikilgajankush" style="display: inline-block; margin: 5px;">
+  <img src="https://img.shields.io/badge/-LinkedIn?style=for-the-badge&logo=linkedin&logoColor=blue&labelColor=white&color=white" width="200" height="100" alt="LinkedIn">
 </a>
+
+<!-- Instagram Badge -->
+<a href="https://www.instagram.com/nick_______003/" style="display: inline-block; margin: 5px;">
+  <img src="https://img.shields.io/badge/-Instagram?style=for-the-badge&logo=Instagram&logoColor=red&labelColor=white&color=white" width="200" height="100" alt="Instagram">
+</a>
+
+<!-- Hackerrank Badge -->
+<a href="https://www.hackerrank.com/profile/nikilgajankush29" style="display: inline-block; margin: 5px;">
+  <img src="https://img.shields.io/badge/Hackerrank-%23E4405F.svg?&style=for-the-badge&logo=Hackerrank&logoColor=white" width="200" height="100" alt="Hackerrank">
+</a>
+
+<!-- LeetCode Badge -->
+<a href="https://leetcode.com/u/i4NZct7nxk/" style="display: inline-block; margin: 5px;">
+  <img src="https://img.shields.io/badge/leetcode-%23E4405F.svg?&style=for-the-badge&logo=Hackerrank&logoColor=white" width="200" height="100" alt="LeetCode">
+</a>
+
 
 
 
