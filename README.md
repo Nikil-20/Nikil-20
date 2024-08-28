@@ -1,4 +1,4 @@
-## Hi 👋, I'm Nikil Gajankush
+<p align="center" > ## Hi 👋, I'm Nikil Gajankush </p>
 
 A passionate Third Year Student from india
 
