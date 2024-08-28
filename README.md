@@ -17,15 +17,7 @@ A passionate B.Tech Student from India.
 </a>  <a href="https://www.instagram.com/nick_______003/">
   <img src="https://img.shields.io/badge/-Instagram?style=for-the-badge&logo=Instagram&logoColor=red&labelColor=white&color=white" width="200" height="100">
 </a>
-<a href="https://www.instagram.com/nick_______003/">
-  <img src="https://img.shields.io/badge/-Instagram?style=for-the-badge&logo=Instagram&logoColor=red&labelColor=white&color=white" width="200" height="100">
-</a>
-<a href="https://www.instagram.com/nick_______003/">
-  <img src="https://img.shields.io/badge/-Instagram?style=for-the-badge&logo=Instagram&logoColor=red&labelColor=white&color=white" width="200" height="100">
-</a>
-<a href="https://www.instagram.com/nick_______003/">
-  <img src="https://img.shields.io/badge/-Instagram?style=for-the-badge&logo=Instagram&logoColor=red&labelColor=white&color=white" width="200" height="100">
-</a>
+
 
 
 
