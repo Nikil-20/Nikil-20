@@ -1,4 +1,4 @@
-<p align="center" > ## Hi 👋, I'm Nikil Gajankush </p>
+ ## Hi 👋, I'm Nikil Gajankush
 
 A passionate Third Year Student from india
 
