@@ -27,6 +27,10 @@ A passionate B.Tech Student from India.
 ![React](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nikil-20&layout=compact&theme=radical)
+
+
 ### My GitHub Stats:
 
 ![Nikil's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nikil-20&show_icons=true&theme=radical
