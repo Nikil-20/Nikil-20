@@ -3,6 +3,8 @@
 A passionate B.Tech Student from India.
 
 ![Profile views](https://komarev.com/ghpvc/?username=Nikil-20&label=Profile%20views&color=0e75b6&style=flat)
+![Developer GIF](https://camo.githubusercontent.com/11b465c9bb8522483e3d1ae566d5dd3b16e12282f8f60e589c7b20848cf6581b/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f313730383935302f73637265656e73686f74732f343138383837372f646576656c6f7065725f6d65642e676966)
+
 
 - 🌱 I’m currently learning **MERN STACK**
 
