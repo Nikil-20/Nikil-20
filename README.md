@@ -15,8 +15,11 @@ A passionate B.Tech Student from India.
 <a href="https://in.linkedin.com/in/nikilgajankush">
   <img src="https://img.shields.io/badge/-LinkedIn?style=for-the-badge&logo=linkedin&logoColor=red&labelColor=white&color=white" width="200" height="100">
 </a>
+<a href="https://www.instagram.com/nick_______003/">
+  <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" width="200" height="100">
+</a>
 
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/nick_______003/)
+
 [![Hackerrank](https://img.shields.io/badge/Hackerrank-%23E4405F.svg?&style=for-the-badge&logo=Hackerrank&logoColor=white)](https://www.hackerrank.com/profile/nikilgajankush29)
 [![leetcode](https://img.shields.io/badge/leetcode-%23E4405F.svg?&style=for-the-badge&logo=Hackerrank&logoColor=white)](https://leetcode.com/u/i4NZct7nxk/)
 
