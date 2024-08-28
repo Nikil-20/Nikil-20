@@ -52,6 +52,7 @@ A passionate Third Year Student from india
 ![Node.js](https://img.shields.io/badge/Node.js-%2343853D.svg?style=for-the-badge&logo=node-dot-js&logoColor=white)
 ![React](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![html](https://img.shields.io/badge/html-%23323330.svg?style=for-the-badge&logo=html&logoColor=%23F7DF1E)
 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nikil-20&layout=compact&theme=white)
