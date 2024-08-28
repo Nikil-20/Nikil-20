@@ -28,7 +28,7 @@ A passionate Third Year Student from india
 
 <!-- Hackerrank Badge -->
 <a href="https://www.hackerrank.com/profile/nikilgajankush29" style="display: inline-block; margin: 5px;">
-  <img src="https://img.shields.io/badge/Hackerrank-%23E4405F.svg?&style=for-the-badge&logo=Hackerrank&logoColor=white" width="200" height="100" alt="Hackerrank">
+  <img src="https://img.shields.io/badge/-Hackerrank?style=for-the-badge&logo=Hackerrank&logoColor=white" width="200" height="100" alt="Hackerrank">
 </a>
 
 <!-- LeetCode Badge -->
