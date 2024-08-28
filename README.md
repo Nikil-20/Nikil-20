@@ -13,7 +13,7 @@ A passionate B.Tech Student from India.
 - ### Connect with me:
 
 <a href="https://in.linkedin.com/in/nikilgajankush">
-  <img src="https://img.shields.io/badge/-LinkedIn?style=for-the-badge&logo=linkedin&logoColor=red&labelColor=white&color=white" width="100" height="100">
+  <img src="https://img.shields.io/badge/-LinkedIn?style=for-the-badge&logo=linkedin&logoColor=red&labelColor=white&color=white" width="200" height="100">
 </a>
 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/nick_______003/)
