@@ -1,6 +1,6 @@
  ## Hi 👋, I'm Nikil Gajankush
 
-<p text="bold" > A passionate Third Year Student from india </p>
+A passionate Third Year Student from india
 
 ![Profile views](https://komarev.com/ghpvc/?username=Nikil-20&label=Profile%20views&color=0e75b6&style=flat)
 <p align="right">
