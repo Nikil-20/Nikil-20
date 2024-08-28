@@ -1,7 +1,7 @@
 ## Hi 👋, I'm Nikil Gajankush
 
 <p align="center">
-  <strong><span style="font-size: 1.5em;">A passionate Third Year Student from India</span></strong>
+  <strong><span style="font-size: 3em;">A passionate B.Tech Student from India</span></strong>
 </p>
 
 ![Profile views](https://komarev.com/ghpvc/?username=Nikil-20&label=Profile%20views&color=0e75b6&style=flat)
