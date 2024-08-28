@@ -12,7 +12,10 @@ A passionate B.Tech Student from India.
 
 - ### Connect with me:
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://in.linkedin.com/in/nikilgajankush)
+<a href="https://in.linkedin.com/in/nikilgajankush">
+  <img src="https://img.shields.io/badge/-LinkedIn?style=for-the-badge&logo=linkedin&logoColor=red&labelColor=white&color=white" width="100" height="50">
+</a>
+
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/nick_______003/)
 [![Hackerrank](https://img.shields.io/badge/Hackerrank-%23E4405F.svg?&style=for-the-badge&logo=Hackerrank&logoColor=white)](https://www.hackerrank.com/profile/nikilgajankush29)
 [![leetcode](https://img.shields.io/badge/leetcode-%23E4405F.svg?&style=for-the-badge&logo=Hackerrank&logoColor=white)](https://leetcode.com/u/i4NZct7nxk/)
