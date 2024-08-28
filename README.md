@@ -35,15 +35,15 @@ A passionate B.Tech Student from India.
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nikil-20&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nikil-20&layout=compact&theme=white)
 
 
 ### My GitHub Stats:
 
-![Nikil's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nikil-20&show_icons=true&theme=radical
+![Nikil's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nikil-20&show_icons=true&theme=white
 )
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Nikil-20&theme=radical&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Nikil-20&theme=white&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
 
 
