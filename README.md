@@ -19,9 +19,9 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/nikilgajankush" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nikilgajankush" height="40" width="50" /></a>
-<a href="https://instagram.com/nick_______003" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="nick_______003" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/nikilgajankush29" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="nikilgajankush29" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/i4nzct7nxk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="i4nzct7nxk" height="30" width="40" /></a>
+<a href="https://instagram.com/nick_______003" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="nick_______003" height="40" width="50" /></a>
+<a href="https://www.hackerrank.com/nikilgajankush29" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="nikilgajankush29" height="40" width="50" /></a>
+<a href="https://www.leetcode.com/i4nzct7nxk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="i4nzct7nxk" height="40" width="50" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
