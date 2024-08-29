@@ -1,70 +1,34 @@
-## Hi 👋, I'm Nikil Gajankush
+<h1 align="center">Hi 👋, I'm Nikil Gajankush</h1>
+<h3 align="center">A passionate B.Tech Student from India</h3>
 
-<p align="center">
-  <strong><span style="font-size: 2.5em;">A passionate B.Tech Student from India</span></strong>
-</p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=nikil-20&label=Profile%20views&color=0e75b6&style=flat" alt="nikil-20" /> </p>
 
-![Profile views](https://komarev.com/ghpvc/?username=Nikil-20&label=Profile%20views&color=0e75b6&style=flat)
-<p align="right">
-<img src="https://camo.githubusercontent.com/11b465c9bb8522483e3d1ae566d5dd3b16e12282f8f60e589c7b20848cf6581b/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f313730383935302f73637265656e73686f74732f343138383837372f646576656c6f7065725f6d65642e676966" width="200" height="200"> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nikil-20" alt="nikil-20" /></a> </p>
 
+- 🔭 I’m currently working on **MERN STACK**
 
+- 🌱 I’m currently learning **FULLSTACK DEVELOPER**
 
-
-- 🌱 I’m currently learning **MERN STACK**
-
-- 💬 Ask me about **MERN Stack**
+- 💬 Ask me about **MERN STACK**
 
 - 📫 How to reach me **nikilgajankush@gmail.com**
 
-- ### Connect with me:
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/nikilgajankush" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nikilgajankush" height="30" width="40" /></a>
+<a href="https://instagram.com/nick_______003" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="nick_______003" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/nikilgajankush29" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="nikilgajankush29" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/i4nzct7nxk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="i4nzct7nxk" height="30" width="40" /></a>
+</p>
 
-<!-- LinkedIn Badge -->
-<a href="https://in.linkedin.com/in/nikilgajankush" style="display: inline-block; margin: 5px;">
-  <img src="https://img.shields.io/badge/-LinkedIn?style=for-the-badge&logo=linkedin&logoColor=blue&labelColor=white&color=white" width="200" height="100" alt="LinkedIn">
-</a>
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
 
-<!-- Instagram Badge -->
-<a href="https://www.instagram.com/nick_______003/" style="display: inline-block; margin: 5px;">
-  <img src="https://img.shields.io/badge/-Instagram?style=for-the-badge&logo=Instagram&logoColor=red&labelColor=white&color=white" width="200" height="100" alt="Instagram">
-</a>
+<h3 align="left">Support:</h3>
+<p><a href="https://www.buymeacoffee.com/Nikil-20"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Nikil-20" /></a></p><br><br>
 
-<!-- Hackerrank Badge -->
-<a href="https://www.hackerrank.com/profile/nikilgajankush29" style="display: inline-block; margin: 5px;">
-  <img src="https://img.shields.io/badge/-Hackerrank?style=for-the-badge&logo=Hackerrank&logoColor=white" width="200" height="100" alt="Hackerrank">
-</a>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nikil-20&show_icons=true&locale=en&layout=compact" alt="nikil-20" /></p>
 
-<!-- LeetCode Badge -->
-<a href="https://leetcode.com/u/i4NZct7nxk/" style="display: inline-block; margin: 5px;">
-  <img src="https://img.shields.io/badge/leetcode-%23E4405F.svg?&style=for-the-badge&logo=Hackerrank&logoColor=white" width="200" height="100" alt="LeetCode">
-</a>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nikil-20&show_icons=true&locale=en" alt="nikil-20" /></p>
 
-
-
-
-
-[![Hackerrank](https://img.shields.io/badge/Hackerrank-%23E4405F.svg?&style=for-the-badge&logo=Hackerrank&logoColor=white)](https://www.hackerrank.com/profile/nikilgajankush29)
-[![leetcode](https://img.shields.io/badge/leetcode-%23E4405F.svg?&style=for-the-badge&logo=Hackerrank&logoColor=white)](https://leetcode.com/u/i4NZct7nxk/)
-
-
-
-
-### Languages and Tools:
-
-![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![Node.js](https://img.shields.io/badge/Node.js-%2343853D.svg?style=for-the-badge&logo=node-dot-js&logoColor=white)
-![React](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-
-
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nikil-20&layout=compact&theme=white)
-
-
-### My GitHub Stats:
-
-![Nikil's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nikil-20&show_icons=true&theme=white
-)
-### My GitHub Streak:
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Nikil-20&theme=white&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
-
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nikil-20&" alt="nikil-20" /></p>
